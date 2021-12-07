@@ -5,7 +5,16 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/rust/lucians-luscious-lasagna/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/lucians-luscious-lasagna/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/assembly-line/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/assembly-line/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/resistor-color/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/resistor-color/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/lucians-luscious-lasagna/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/assembly-line/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/resistor-color/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
