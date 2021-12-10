@@ -11,10 +11,28 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/resistor-color/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/health-statistics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/health-statistics/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/low-power-embedded-game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/low-power-embedded-game/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/role-playing-game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/role-playing-game/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rpn-calculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/rpn-calculator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/short-fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/short-fibonacci/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/magazine-cutout/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/magazine-cutout/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/lucians-luscious-lasagna/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/assembly-line/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/resistor-color/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/health-statistics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/low-power-embedded-game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/role-playing-game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/short-fibonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/rpn-calculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/magazine-cutout/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
