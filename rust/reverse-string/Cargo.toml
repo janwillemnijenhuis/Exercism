@@ -1,0 +1,15 @@
+[features]
+grapheme = []
+
+[package]
+edition = "2021"
+name = "reverse_string"
+version = "1.2.0"
+
+[[bin]]
+name = "lib"
+path = "src/lib.rs"
+
+[dependencies]
+unicode-reverse = "1.0.8"
+unicode-segmentation = "0.1.2"
