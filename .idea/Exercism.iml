@@ -31,6 +31,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rust/luhn/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust/reverse-string/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust/gigasecond/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/rust/lucians-luscious-lasagna/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/assembly-line/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/semi-structured-logs/target" />
@@ -45,6 +47,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust/luhn-trait/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/luhn-from/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust/reverse-string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust/gigasecond/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
